@@ -1,0 +1,19 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "my-app",
+  "short_name": "my-app",
+  "start_url": "/?utm_source=web_app_manifest",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.anonymous.myapp"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.anonymous.myapp",
+      "id": "com.anonymous.myapp"
+    }
+  ],
+  "prefer_related_applications": true
+}
